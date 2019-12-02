@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomMaker
+comment0.text=\r\n\ \ This\ class\ is\ the\ main\ class\ of\ the\ "The\ Rescue\ Circle"\ application.\ \r\n\ \ "The\ rescue\ Circle"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ Users\ \r\n\ \ can\ walk\ around\ some\ scenery.\ That's\ all.\ It\ should\ really\ be\ extended\ \r\n\ \ to\ make\ it\ more\ interesting\!\r\n\ \r\n\ \ This\ main\ class\ creates\ and\ initialises\ all\ the\ others\:\ it\ creates\ all\r\n\ \ rooms,\ creates\ the\ parser\ and\ starts\ the\ game.\ \ It\ also\ evaluates\ and\r\n\ \ executes\ the\ commands\ that\ the\ parser\ returns.\r\n\ \r\n\ @author\ \ Janak\ Simkhada\r\n\ @version\ 01/02/2019\r\n
+comment1.params=
+comment1.target=RoomMaker()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RoomMaker\r\n
+comment2.params=inventory
+comment2.target=Room\ createRooms(java.util.ArrayList)
+comment2.text=\r\n\ createRooms()\ creates\ all\ the\ rooms,\ links\ them,\ and\ populates\ them\ with\ Items.\r\n\ It\ is\ static\r\n
+numComments=3

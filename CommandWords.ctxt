@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ \ This\ class\ is\ the\ main\ class\ of\ the\ "The\ Rescue\ Circle"\ application.\ \r\n\ \ "The\ rescue\ Circle"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ Users\ \r\n\ \ can\ walk\ around\ some\ scenery.\ That's\ all.\ It\ should\ really\ be\ extended\ \r\n\ \ to\ make\ it\ more\ interesting\!\r\n\ \r\n\ \ This\ main\ class\ creates\ and\ initialises\ all\ the\ others\:\ it\ creates\ all\r\n\ \ rooms,\ creates\ the\ parser\ and\ starts\ the\ game.\ \ It\ also\ evaluates\ and\r\n\ \ executes\ the\ commands\ that\ the\ parser\ returns.\r\n\ \r\n\ @author\ \ Janak\ Simkhada\r\n\ @version\ 24/01/2019\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructor\ -\ initialise\ the\ command\ words.\r\n
+comment2.params=
+comment2.target=void\ showAll()
+comment2.text=\r\n\ Print\ all\ valid\ commands\ to\ System.out.\r\n
+comment3.params=aString
+comment3.target=boolean\ isCommand(java.lang.String)
+comment3.text=\r\n\ Check\ whether\ a\ given\ String\ is\ a\ valid\ command\ word.\ \r\n\ @return\ true\ if\ a\ given\ string\ is\ a\ valid\ command,\r\n\ false\ if\ it\ isn't.\r\n
+numComments=4

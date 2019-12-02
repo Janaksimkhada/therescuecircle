@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ \ This\ class\ is\ the\ main\ class\ of\ the\ "The\ Rescue\ Circle"\ application.\ \r\n\ \ "The\ rescue\ Circle"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ Users\ \r\n\ \ can\ walk\ around\ some\ scenery.\ That's\ all.\ It\ should\ really\ be\ extended\ \r\n\ \ to\ make\ it\ more\ interesting\!\r\n\ \r\n\ \ This\ main\ class\ creates\ and\ initialises\ all\ the\ others\:\ it\ creates\ all\r\n\ \ rooms,\ creates\ the\ parser\ and\ starts\ the\ game.\ \ It\ also\ evaluates\ and\r\n\ \ executes\ the\ commands\ that\ the\ parser\ returns.\r\n\ \r\n\ @author\ \ Janak\ Simkhada\r\n\ @version\ 31/01/2019\r\n
+comment1.params=d
+comment1.target=Item(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n
+comment2.params=d\ q
+comment2.target=Item(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getDesc()
+comment3.text=\r\n\ This\ returns\ the\ description\ of\ an\ item.\r\n\ @return\ description\r\n
+comment4.params=
+comment4.target=int\ getQuantity()
+comment4.text=\r\n\ This\ returns\ the\ quantity\ of\ an\ item.\r\n\ @return\ quantity\r\n
+comment5.params=List
+comment5.target=int\ totalQuantity(java.util.ArrayList)
+comment6.params=s\ List
+comment6.target=Item\ findByName(java.lang.String,\ java.util.ArrayList)
+comment6.text=\r\n\ findByName\:\ given\ a\ string\ and\ an\ ArrayList\ of\ Items,\ \r\n\ find\ the\ Item\ with\ the\ matching\ name,\ or\ else\ return\ null\r\n
+numComments=7
